@@ -1,0 +1,4 @@
+Switch - 2 task
+if else - 5 task
+ternary - 2 task
+for loop - 10 task

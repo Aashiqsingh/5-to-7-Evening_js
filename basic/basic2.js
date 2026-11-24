@@ -62,3 +62,6 @@
     console.log("value of pi = ",pi);
     
 }
+
+let a = 10;
+a = 20;
