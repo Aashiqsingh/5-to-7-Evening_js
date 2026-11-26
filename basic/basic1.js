@@ -11,6 +11,7 @@ console.log("value of a = ",a);
 console.log("type of a = ",typeof(a));
 
 
+
 b = 12.5;
 console.log("value of b =",b);
 console.log("type of b = ",typeof b);

@@ -55,3 +55,10 @@ There are three keyword. --> scope
 ../ --> parent directory
 ../../
 
+There are 6 operator 
+1. Airthmatic : + , - , * , / , % , **
+2. assignment : = , += -= , *= , /=
+3. logical : && , || , !
+4. Bitwise : & , | , ^
+5. relation / comparision : == , < , > , <= , >= , != , === , !== 
+6. shift << , >>
